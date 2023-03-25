@@ -1,1 +1,4 @@
 # kafle_samaya_ToDo-List-HW4-new
+
+In this ToDo List assignmnet I've mostly worked with css. Here I've listed out 6 todo tasks and assigned thier article ID as todo, inprogress and done.
+With the help of HTML I created a list of 6 items and with the help of CSS did the remaing styling.  Created a dashed borded for all three and added light background to the even task number and added check box in the In Progress and Finished task with line through. I've also added a subtle hover effect in check box in both check boxes. Here the colour changes from white to black after you check the box. I've also added a 3d effect in the heading ToDo List with gradient effect and i've added a background image (url) with css to match the theme. I've also made changes to the colours and used a similar font in all the site.
